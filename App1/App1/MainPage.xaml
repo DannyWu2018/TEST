@@ -10,6 +10,7 @@
 
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="1160,820,0,0" VerticalAlignment="Top" Height="62" Width="164"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="552,364,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>
